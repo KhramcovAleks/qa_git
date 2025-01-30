@@ -7,8 +7,6 @@ public class SecondTest {
 
     @Test
     void secondTest() {
-
-
         Assertions.assertTrue(true);
     }
 }
